@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormyProject", "FormyProject.csproj", "{CCEF5527-0E80-4B63-AAE9-5CDFAEB60F9A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormyTests", "..\FormyTests\FormyTests.csproj", "{DBB10FB2-4294-4B37-ACBB-FA4D22D6CA86}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCEF5527-0E80-4B63-AAE9-5CDFAEB60F9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCEF5527-0E80-4B63-AAE9-5CDFAEB60F9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCEF5527-0E80-4B63-AAE9-5CDFAEB60F9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCEF5527-0E80-4B63-AAE9-5CDFAEB60F9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBB10FB2-4294-4B37-ACBB-FA4D22D6CA86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBB10FB2-4294-4B37-ACBB-FA4D22D6CA86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBB10FB2-4294-4B37-ACBB-FA4D22D6CA86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBB10FB2-4294-4B37-ACBB-FA4D22D6CA86}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED39D31B-C228-4C2B-A7BC-9517DC38C566}
+	EndGlobalSection
+EndGlobal
